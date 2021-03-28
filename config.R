@@ -1,3 +1,5 @@
+rm(list = ls()) # Clear variables
+
 print("Run config.R")
 
 #install relied packages
